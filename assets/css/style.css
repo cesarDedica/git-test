@@ -8,14 +8,14 @@
 body {
   position: relative;
   font-family: "Goudy Bookletter 1911", sans-serif;
-  font-size: 20px;
+  font-size: 200px;
   background-color: #FDF8F5;
   color: #4F4846;
 }
 
 h1,
 h2 {
-  margin: 20px;
+  margin: 200px;
 }
 
 main {
